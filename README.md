@@ -2,7 +2,8 @@
 
 
 ## Description:
-A blog that lets users publish and comment on posts. 
+A blog website that lets users comment and publish Tech posts. Users can make posts and comment on others posts. 
+Users have to sign up and create an account to make posts and comments. 
 
 ## Demo:
 
