@@ -23,13 +23,14 @@ A blog that lets users publish and comment on posts.
 ## Links:
 
 * [GitHub Repo](https://github.com/kwing25/14-MVC-Tech-Blog)
-* [Live Site](#)
+* [Live Site](https://kwing25.github.io/14-MVC-Tech-Blog/)
 * [Heroku](#)
 
 
 ## Status & Updates:
 
-> * **Created Repo - May 11 2021** 
+> * Created Repo - May 11 2021
+> * Initial Files Uploaded - May 24 2021
 > * *Project In-Progress...*
 
 ---
